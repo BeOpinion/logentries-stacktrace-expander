@@ -5,3 +5,8 @@ If you log messages into logentries that contain "\n" characters (ex: one-lined 
 ### Usage
 
 While browsing your log messages, just click the arrow-down icon to expand all the compacted messages (so better for reading stacktraces!)
+
+### Installation
+
+Download the .crx file https://media.beopinion.com/logentries-stacktrace-expander.crx
+Follow the manual installation procedure explained at http://www.ballajack.com/installer-extension-chrome
